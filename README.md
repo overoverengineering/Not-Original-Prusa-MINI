@@ -1,18 +1,16 @@
-# Original Prusa MINI / MINI+
+# Not Original Prusa MINI / MINI+
 
 
-The Original Prusa MINI / MINI+ is a 3D printer project maintained by PRUSA RESEARCH. Originates in the RepRap project.
+The NOt Original Prusa MINI / MINI+ is a 3D printer project maintained by me.
 
 This repository contains resources and documentation for printed and mechanical parts of the printer.
 
 
 **Links**
 
- * Prusa Research website : http://prusa3d.com
- * Product page: https://www.prusa3d.com/original-prusa-mini/
  * Build manual: https://help.prusa3d.com/en/tag/mini-2/
 
- * Buddy-board : https://github.com/prusa3d/Buddy-board-MINI-PCB
+ * Buddy-board remix:  https://github.com/overoverengineering/Buddy-board-MINI-PCB_Remixed
  * Heatbed : https://github.com/prusa3d/Heatbed-Mini-PCB
  * IR senzor : https://github.com/prusa3d/MKxS-IR-sensor
 
